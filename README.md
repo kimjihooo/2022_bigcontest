@@ -20,6 +20,10 @@
 <img width="697" alt="화면 캡처 2023-01-03 181733" src="https://user-images.githubusercontent.com/97178674/210332932-970103e3-3b43-41c9-b9fb-ee69ce442ef4.png">
 
 - Partial Dependence Plot(PDP)
+<img width="696" alt="화면 캡처 2023-01-03 181947" src="https://user-images.githubusercontent.com/97178674/210333099-7bd4cdf8-ac83-4516-9619-74f7bdbb0006.png">
 
 ### 3. 앱 사용패턴을 활용한 군집 분석
-- 
+- 시간, 빈도 변수 생성
+- 회귀계수의 개념을 이용해 시간의 흐름을 반영하는 시계열 패턴 변수 생성
+- K-Means 군집 분석으로 6개의 군집
+- 군집별 특징 분석 및 서비스 메시지 제안
