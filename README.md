@@ -27,3 +27,7 @@
 - 회귀계수의 개념을 이용해 시간의 흐름을 반영하는 시계열 패턴 변수 생성
 - K-Means 군집 분석으로 6개의 군집
 - 군집별 특징 분석 및 서비스 메시지 제안
+<img width="695" alt="화면 캡처 2023-01-03 183516" src="https://user-images.githubusercontent.com/97178674/210339256-1faead8b-51a8-4795-a6c2-1c58cc5e770d.png">
+
+
+<img width="695" alt="화면 캡처 2023-01-03 183804" src="https://user-images.githubusercontent.com/97178674/210339291-61016cb0-89a4-4e90-b64f-622966944ef9.png">
