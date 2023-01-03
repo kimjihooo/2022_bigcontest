@@ -17,6 +17,7 @@
 
 ### 2. 예측 모델 해석
 - 변수중요도
+<img width="697" alt="화면 캡처 2023-01-03 181733" src="https://user-images.githubusercontent.com/97178674/210332932-970103e3-3b43-41c9-b9fb-ee69ce442ef4.png">
 
 - Partial Dependence Plot(PDP)
 
